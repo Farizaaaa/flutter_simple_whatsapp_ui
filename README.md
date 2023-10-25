@@ -6,7 +6,7 @@ In this repository contains simple WhatSapp UI redesign using Flutter.
 ## Screenshots
 
 | Chats Screen |
-||
+|--------------|
 |![image](assets/images/ChatPage.png)|
 | Status Screen |
 
