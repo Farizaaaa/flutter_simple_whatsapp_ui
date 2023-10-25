@@ -1,6 +1,13 @@
 # whatsapp_ui_clone
 
-A new Flutter project.
+WhatsApp UI Design.
+In this repository contains simple WhatSapp UI redesign using Flutter.
+
+## Screenshots
+
+| Welcome Screen  |
+| ------------- | 
+|![image](assets/images/ChatPage.png)|
 
 ## Getting Started
 
